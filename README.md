@@ -5,16 +5,17 @@ This repository contains my submission for the **Windows Forms Assignment** as p
 ---
 
 
-## **Screenshot**  
+## Screenshot 
 ![Application Preview](KhaledAbdulhakeemSaeedSaifAlshibani_WinFormsAssignment.png)  
 
 ---  
 
-## **Assignment PDF**  
+## Assignment PDF
 For assignment details, refer to the PDF:  
 [Windows Forms Assignment - Student Registration Form](<Windows Forms Assignment_ Student Registration Form.pdf>)  
 
 ---
 
-## **Source code**
-The complete source code is in the [`src`](./src/) directory.  
+## Main Files
+- [ZIP File](./KhaledAbdulhakeemSaeedSaifAlshibani_WinFormsAssignment.zip)
+- [src directory](./src/)
