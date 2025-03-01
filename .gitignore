@@ -1,43 +1,35 @@
-# Build Folders
-bin/
-obj/
-
-# User-specific files
+# Visual Studio files
+.vs/
 *.user
 *.suo
-*.vcxproj.user
-*.csproj.user
+*.userosscache
+*.sln.docstates
 
-# Visual Studio Code settings
-.vscode/
-
-# NuGet packages
-packages/
-*.nupkg
-project.lock.json
-
-# Compiled DLLs and Executables
+# Build output
+bin/
 *.exe
 *.dll
 *.pdb
-*.log
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
 
-# Configuration and Secrets
-App.config
-*.config
-*.env
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+*.nuget.props
+*.nuget.targets
 
-# Designer-generated files (optional, if auto-generated files should be ignored)
-Form1.Designer.cs
-
-# Recycle Bin & OS-specific files
-Thumbs.db
-Desktop.ini
-
-# Rider / JetBrains IDE files
+# Rider / JetBrains IDEs
 .idea/
 *.iml
 
-# Temporary files
-*.tmp
-*.cache
+# Debug / Release config files
+appsettings.Development.json
+appsettings.Production.json
+
+# Log files
+*.log
+logs/
